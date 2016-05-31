@@ -1,1 +1,1 @@
-# keyword_match_in_tarbz2_files
+# keyword_match_in_tarbz2_filesScript that gives 2 inputs:1. path of directory, which contains tar.bz2 files and a lot of subdirectories2. list of keywordsFunction without untaring all tar files, finds all matches in file, then returns keyword, filename, line number, and line content which matches that keyword.
